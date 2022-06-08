@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sachin Girish",
+      "rollNumber": 21,
+      "term": 2,
+      "year": 3,
+      "contact": "28822424"
+    },
+    {
+      "id": 2,
+      "name": "Vivek Sharma",
+      "rollNumber": 22,
+      "term": 1,
+      "year": 3,
+      "contact": "78842424"
+    },
+    {
+      "id": 3,
+      "name": "Akash Kumar",
+      "rollNumber": 1,
+      "term": 1,
+      "year": 4,
+      "contact": "987762424"
+    },
+    {
+      "id": 4,
+      "name": "Gaurav",
+      "rollNumber": 11,
+      "term": 2,
+      "year": 2,
+      "contact": "28822424"
+    },
+    {
+      "id": 5,
+      "name": "Gaurav",
+      "rollNumber": 11,
+      "term": 3,
+      "year": 2,
+      "contact": "28822424"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Sports Day",
+      "information": "",
+      "startDate": "",
+      "endDate": "",
+      "registration": ""
+    },
+    {
+      "id": 1,
+      "name": "Sports Day",
+      "information": "",
+      "startDate": "",
+      "endDate": "",
+      "registration": ""
+    },
+    {
+      "id": 1,
+      "name": "Sports Day",
+      "information": "",
+      "startDate": "",
+      "endDate": "",
+      "registration": ""
+    },
+    {
+      "id": 1,
+      "name": "Sports Day",
+      "information": "",
+      "startDate": "",
+      "endDate": "",
+      "registration": ""
+    },
+    {
+      "name": "Annual Day",
+      "information": "56th annual day celebration",
+      "startDate": "2022-08-26T15:41:54.000Z",
+      "endDate": "2022-08-19T15:41:54.000Z",
+      "registration": "www.ffesggrhh.in/fsgrh",
+      "id": 2
+    },
+    {
+      "name": "Sports Day",
+      "information": "interschool sports meet",
+      "startDate": "2022-06-23T15:41:54.000Z",
+      "endDate": "2022-06-30T15:41:54.000Z",
+      "registration": "sportsasda.in/register",
+      "id": 3
+    }
+  ]
+}
