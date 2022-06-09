@@ -42,38 +42,7 @@
     }
   ],
   "events": [
-    {
-      "id": 1,
-      "name": "Sports Day",
-      "information": "",
-      "startDate": "",
-      "endDate": "",
-      "registration": ""
-    },
-    {
-      "id": 1,
-      "name": "Sports Day",
-      "information": "",
-      "startDate": "",
-      "endDate": "",
-      "registration": ""
-    },
-    {
-      "id": 1,
-      "name": "Sports Day",
-      "information": "",
-      "startDate": "",
-      "endDate": "",
-      "registration": ""
-    },
-    {
-      "id": 1,
-      "name": "Sports Day",
-      "information": "",
-      "startDate": "",
-      "endDate": "",
-      "registration": ""
-    },
+
     {
       "name": "Annual Day",
       "information": "56th annual day celebration",
@@ -89,6 +58,14 @@
       "endDate": "2022-06-30T15:41:54.000Z",
       "registration": "sportsasda.in/register",
       "id": 3
+    },
+    {
+      "name": "Science Fair",
+      "information": "place to showcase your ideas",
+      "startDate": "2022-06-23T15:41:54.000Z",
+      "endDate": "2022-08-31T15:41:54.000Z",
+      "registration": "sgjsdkmgs.saf",
+      "id": 4
     }
   ]
 }

@@ -7,13 +7,13 @@ export const Pie = () => {
   const [term2, setTerm2] = useState("")
   const [term3, setTerm3] = useState("")
   useEffect(()=>{
-    axios.get(`http://localhost:8000/students?term=1`).then((res)=>{
+    axios.get(`https://dashboard1-backend.herokuapp.com/students?term=1`).then((res)=>{
       setTerm1( res.data.length)
     })
-    axios.get(`http://localhost:8000/students?term=2`).then((res)=>{
+    axios.get(`https://dashboard1-backend.herokuapp.com/students?term=2`).then((res)=>{
       setTerm2( res.data.length)
     })
-    axios.get(`http://localhost:8000/students?term=3`).then((res)=>{
+    axios.get(`https://dashboard1-backend.herokuapp.com/students?term=3`).then((res)=>{
       setTerm3( res.data.length)
     })
   }, [])

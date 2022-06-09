@@ -56,7 +56,7 @@ const Students = () => {
     }, [onlyWidth])
 
     const getStudents =()=>{
-        axios.get(`http://localhost:8000/students?${year&&`year=${year}`}&${term&&`term=${term}`}&${search&&`q=${search}`}`).then((res)=>{
+        axios.get(`https://dashboard1-backend.herokuapp.com/students?${year&&`year=${year}`}&${term&&`term=${term}`}&${search&&`q=${search}`}`).then((res)=>{
             setStudents(res.data)
         }).catch((err)=>{
           console.log(err)

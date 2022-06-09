@@ -28,7 +28,7 @@ const AddEvent = () => {
       alert("please fill all the required fields")
       return
     }
-    axios.post("http://localhost:8000/events", data).then((res)=>{
+    axios.post("https://dashboard1-backend.herokuapp.com/events", data).then((res)=>{
       alert("event created successfully")
     })
   }
